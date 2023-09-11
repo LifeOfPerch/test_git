@@ -1,3 +1,3 @@
 # test_git
-
-Bullshit
+My first GitHub Repo!
+Hello Odin!
